@@ -1,4 +1,4 @@
-# 🛒 Grocery Bill Calculator
+#  Grocery Bill Calculator
 A simple Python project that simulates real-world grocery billing operations with receipt generation.
 
 A beginner-friendly **console-based Grocery Billing System built using Python and Object-Oriented Programming (OOP)**.  
@@ -6,28 +6,28 @@ This project simulates a real-world billing system where users can add items, ca
 
 ---
 
-## ✨ Features
+##  Features
 
-- 👤 Customer details input  
-- 🛍️ Add multiple grocery items  
-- 📋 View shopping cart  
-- 🔍 Search an item  
-- ❌ Remove an item from cart  
-- 🧮 Automatic bill calculation  
-- 💰 GST calculation (5%)  
-- 🎉 Discount system (25% on bills ≥ ₹2000)  
-- 💳 Payment methods:
+-  Customer details input  
+-  Add multiple grocery items  
+-  View shopping cart  
+-  Search an item  
+-  Remove an item from cart  
+-  Automatic bill calculation  
+-  GST calculation (5%)  
+-  Discount system (25% on bills ≥ ₹2000)  
+-  Payment methods:
   - Cash  
   - UPI  
   - Credit Card  
   - Debit Card  
-- 🧾 Generate detailed receipt  
-- 💾 Save receipt as `.txt` file  
-- ⚠️ Input validation using exception handling  
+-  Generate detailed receipt  
+-  Save receipt as `.txt` file  
+-  Input validation using exception handling  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3  
 - Object-Oriented Programming (OOP)  
@@ -51,7 +51,7 @@ Grocery-Bill-Calculator/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the Repository
 
@@ -73,7 +73,7 @@ python grocery_bill_calculator.py
 
 ---
 
-## 📋 Menu
+##  Menu
 
 ```text
 ========== MENU ==========
@@ -88,7 +88,7 @@ python grocery_bill_calculator.py
 
 ---
 
-## 🧾 Billing Rules
+##  Billing Rules
 
 | Feature              | Value        |
 | -------------------- | ------------ |
@@ -98,7 +98,7 @@ python grocery_bill_calculator.py
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Main Menu
 
@@ -142,7 +142,7 @@ python grocery_bill_calculator.py
 
 ---
 
-## 📚 Python Concepts Used
+## Python Concepts Used
 
 * Classes & Objects
 * Constructors (`__init__`)
@@ -157,7 +157,7 @@ python grocery_bill_calculator.py
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * GUI using Tkinter or PyQt
 * SQLite/MySQL database integration
@@ -170,7 +170,7 @@ python grocery_bill_calculator.py
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome.
 
@@ -182,13 +182,13 @@ Contributions are welcome.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Lakshmi Chauhan**
 
@@ -196,4 +196,4 @@ GitHub: https://github.com/lakshmi1810-create
 
 ---
 
-⭐ If you like this project, don't forget to **Star** the repository!
+ If you like this project, don't forget to **Star** the repository!
