@@ -1,0 +1,12 @@
+GROCERY STORE
+Bill No : 9325
+Customer : Anshi
+Date : 2026-07-06 13:06:26.384551
+
+Maggie 5 x 200.0 = 1000.0
+
+Subtotal : 1000.0
+GST : 50.0
+Discount : 0
+Final Bill : 1050.0
+Payment : UPI
