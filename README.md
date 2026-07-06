@@ -1,4 +1,5 @@
 # 🛒 Grocery Bill Calculator
+A simple Python project that simulates real-world grocery billing operations with receipt generation.
 
 A beginner-friendly **console-based Grocery Billing System built using Python and Object-Oriented Programming (OOP)**.  
 This project simulates a real-world billing system where users can add items, calculate total bills with GST and discounts, generate receipts, and save them as text files.
@@ -137,7 +138,7 @@ python grocery_bill_calculator.py
 
 ## Saved Receipt (.txt File)
 
-![Saved Receipt](screenshots/saved-receipt.png)
+![Saved Receipt](saved-receipt.png)
 
 ---
 
