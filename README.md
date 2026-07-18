@@ -196,4 +196,4 @@ GitHub: https://github.com/lakshmi1810-create
 
 ---
 
- If you like this project, don't forget to **Star** the repository!
+ If you like this project, don't forget to **Star** ⭐ the repository!
